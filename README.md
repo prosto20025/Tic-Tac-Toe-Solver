@@ -69,7 +69,7 @@ Tic-Tac-Toe game solver using the Min-Max algorithm
 
 
 
-### Launch info
+## Launch info
 
 ### `git clone https://github.com/prosto20025/Tic-Tac-Toe-Solver.git`
 After download open the NMKSolver.sln in Visual Studio and run the program.
