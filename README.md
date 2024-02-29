@@ -1,7 +1,7 @@
 # Tic-Tac-Toe-Solver
 Tic-Tac-Toe game solver using the Min-Max algorithm
 
-## Commands
+# Commands
 ### `SOLVE_GAME_STATE N M K ActivePLayer Board` - Checks if it is possible to win the game for some player and displays which player can win.
   where:
     N - Number of rows,
@@ -69,7 +69,7 @@ Tic-Tac-Toe game solver using the Min-Max algorithm
 
 
 
-## Launch info
+# Launch info
 
 ### `git clone https://github.com/prosto20025/Tic-Tac-Toe-Solver.git`
 After download open the NMKSolver.sln in Visual Studio and run the program.
